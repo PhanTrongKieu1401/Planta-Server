@@ -1,5 +1,5 @@
 
-# Planta server API
+# Planta Server API
 ## Introduction
 - The Planta application's API provides APIs to help manage and care for plants.
 - Functions is developed:
